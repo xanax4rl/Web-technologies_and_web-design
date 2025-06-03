@@ -15,6 +15,9 @@
 
 Освоїти базові команди Git та розмістити локальний проєкт у віддаленому репозиторії GitHub.
 
+Завдання:
+
+![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab1/lab1.png)
 
 Хід роботи
 
