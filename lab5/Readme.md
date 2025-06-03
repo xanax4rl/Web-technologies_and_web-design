@@ -39,7 +39,7 @@
 ### 3 ‒ Перевірка роботи скрипта
 
 1. Запустив Apache у XAMPP.
-2. Відкрив [http://localhost:8080/demo/lab5.php](http://localhost:8080/demo/lab5.php).
+2. Відкрив [http://localhost:8080/demo/lab5/lab5.php](http://localhost:8080/demo/lab5/lab5.php).
 3. **Завдання 1**: ввів ім’я *«Serhii»* → отримав *«6 символів»*.
 
 ![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab5/lab5.1.png)
