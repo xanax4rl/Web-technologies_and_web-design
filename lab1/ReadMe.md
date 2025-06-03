@@ -36,7 +36,7 @@ ServerName localhost:8080 # було 80
 
 Доданий наступний код:
 
-'''Код'''(https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab1/index.php)
+'''php'''(https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab1/index.php)
 
 
 Сторінка у браузері відображає:
