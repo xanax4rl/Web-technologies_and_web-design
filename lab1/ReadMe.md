@@ -41,6 +41,7 @@ ServerName localhost:8080 # було 80
 
 Сторінка у браузері відображає:
 
+![image](https://github.com/user-attachments/assets/b3c68516-db48-4c20-a97c-1209ae9cbcfb)
 
 
 Висновки
