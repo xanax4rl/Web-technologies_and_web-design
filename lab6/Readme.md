@@ -19,7 +19,7 @@
 
 Завдання:
 
-
+![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab6/lab6_task.png)
 
 ---
 
@@ -54,25 +54,29 @@ INSERT INTO Books (title, author, price, publication_year) VALUES
  ('Чорний ворон',    'Василь Шкляр',           340.00, 2009);
 ```
 
+![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab6/lab6.1.png)
+
 ### 2 ‒ Підготовка PHP‑файлу
 
 Створено **`lab6.php`** у `D:\xampp\htdocs\demo`.
 
-
+[Переглянути код](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab6/lab6.php)
 
 ### 3 ‒ Перевірка функціоналу
 
-1. **Пошук**: ввів *«Місто»* → таблиця відобразила книгу Підмогильного.
+1. **Пошук**: ввів *«о»* → таблиця відобразила дві книги які містять букву "о" у назві. 
 
-
+![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab6/lab6.2.png)
   
 3. **Оновлення**: змінив ціну книги з ID = 1 на `350.00` → отримав повідомлення *«Книгу успішно оновлено ✅»*.
 
+![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab6/lab6.3.png)
 
+![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab6/lab6.4.png)
 
 4. У базі даних перевірив, що зміни збережено.
 
-
+![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab6/lab6.5.png)
 
 ---
 
