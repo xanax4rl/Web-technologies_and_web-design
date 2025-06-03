@@ -17,7 +17,7 @@
 
 Завдання:
 
-![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab1/lab1.png)
+![image](https://github.com/xanax4rl/Web-technologies_and_web-design/blob/main/lab1/lab1_task.png)
 
 Хід роботи
 
